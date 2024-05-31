@@ -1,1 +1,1 @@
-# RAG2-Agents
+# RAG-Agents
